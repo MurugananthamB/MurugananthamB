@@ -4,7 +4,7 @@
 
 ## 🌐 Socials & Profile Views
 
-      <h3>🌍 Socials</h3>
+     ![] <h3>🌍 Socials</h3>
       <a href="https://instagram.com/_mr.creator_0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
       <a href="https://linkedin.com/in/murugananthamb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
       <a href="https://medium.com/@@murugananthamanand01212"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
