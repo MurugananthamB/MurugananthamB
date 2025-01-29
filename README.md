@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Muruganantham Bharathakrishnan
 
-   I'm a passionate Full Stack Developer. I love working with cutting-edge technologies and exploring new ways to solve problems.
+   I'm a passionate **Full Stack Developer**. I love working with cutting-edge technologies and exploring new ways to solve problems.
 
 🔭 I’m currently working on **Adhiparaskathi Hospitals** as a **Full Stack Developer**.  <br><br>👯 I’m looking to collaborate on **innovative web and mobile development projects**.  <br><br>🤝 I’m looking for help with **scaling applications and optimizing performance**.  <br><br>🌱 I’m currently learning **advanced backend frameworks and cloud technologies**.  <br><br>💬 Ask me about **web development, frontend/backend technologies, and database management**.  <br><br>⚡ Fun fact: **I love solving complex coding challenges and exploring new tech trends!** 🚀
 
