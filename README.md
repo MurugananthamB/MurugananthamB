@@ -4,13 +4,14 @@
 
 ## 🌐 Socials & Profile Views
 
-     ![] <h3>🌍 Socials</h3>
-      <a href="https://instagram.com/_mr.creator_0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/murugananthamb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-      <a href="https://medium.com/@@murugananthamanand01212"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-      <a href="https://x.com/@_mrcreator_"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-      <h3>👀 Profile Views</h3>
-      <img src="https://komarev.com/ghpvc/?username=MurugananthamB&label=Profile%20Views&color=blue&style=plastic"/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.creator_0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murugananthamb)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@murugananthamanand01212)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_mrcreator_)
+
+**👀 Profile Views**  
+![](https://komarev.com/ghpvc/?username=MurugananthamB&label=Profile%20Views&color=blue&style=plastic)
+
 
 
 
