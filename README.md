@@ -13,7 +13,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@murugananthamanand01212)
 
 ## 📜 Certifications:
-🏆 **Full Stack Developer Certificate** - *Issued by IIT-M Pravartak Guvi*  
+🏆 **Full Stack Development Course with AI Tools** - *Issued by IIT-M Pravartak Guvi*  
 📄 **Credential ID**: `7WsSZM0i39NHPxnr`  
 🔗 **Credential Link**: [View Certificate](https://v2.zenclass.in/certificateDownload/7WsSZM0i39NHPxnr)
     ![image](https://github.com/user-attachments/assets/7c5bdf5f-7884-4732-94ca-a3272bd53516)
