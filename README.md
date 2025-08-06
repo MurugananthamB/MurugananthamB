@@ -22,7 +22,7 @@
 ## 📜 Certifications:
 🏆 **Full Stack Development Course with AI Tools** - *Issued by IIT-M Pravartak Guvi*  
 📄 **Credential ID**: `7WsSZM0i39NHPxnr`  
-🔗 **Credential Link**: [View Certificate](https://v2.zenclass.in/certificateDownload/7WsSZM0i39NHPxnr)
+🔗 **Credential Link**: [View Certificate](https://digitalskills.iitmpravartak.org.in/verify/cert/7WsSZM0i39NHPxnr)
     ![image](https://github.com/user-attachments/assets/7c5bdf5f-7884-4732-94ca-a3272bd53516)
 
 
