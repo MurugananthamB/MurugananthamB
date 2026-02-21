@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Muruganantham Bharathakrishnan
 
-   I'm a passionate **Full Stack Developer**. I love working with cutting-edge technologies and exploring new ways to solve problems.
+   I'm a passionate **Technical Project Manager**. I love working with cutting-edge technologies and exploring new ways to solve problems.
 
-🔭 I’m currently working on **Wedjat Health Solutions Pvt Ltd** as a **Full Stack Developer**.  <br><br>👯 I’m looking to collaborate on **innovative web and mobile development projects**.  <br><br>🤝 I’m looking for help with **scaling applications and optimizing performance**.  <br><br>🌱 I’m currently learning **advanced backend frameworks and cloud technologies**.  <br><br>💬 Ask me about **web development, frontend/backend technologies, and database management**.  <br><br>⚡ Fun fact: **I love solving complex coding challenges and exploring new tech trends!** 🚀
+🔭 I’m currently working on **Quadcastle Technologies Pvt Ltd** as a **Technical Project Manager**.  <br><br>👯 I’m looking to collaborate on **innovative web and mobile development projects**.  <br><br>🤝 I’m looking for help with **scaling applications and optimizing performance**.  <br><br>🌱 I’m currently learning **advanced backend frameworks and cloud technologies**.  <br><br>💬 Ask me about **web development, frontend/backend technologies, and database management**.  <br><br>⚡ Fun fact: **I love solving complex coding challenges and exploring new tech trends!** 🚀
 
 ##
 ![](https://komarev.com/ghpvc/?username=MurugananthamB&label=Profile%20Views&color=blue&style=plastic)
@@ -17,7 +17,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_mrcreator_)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@murugananthamanand01212)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/MurugananthamB)
-
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/muruganantham-b)
 
 ## 📜 Certifications:
 🏆 **Full Stack Development Course with AI Tools** - *Issued by IIT-M Pravartak Guvi*  
